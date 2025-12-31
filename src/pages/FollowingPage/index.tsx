@@ -1,3 +1,5 @@
-export function HomePage() {
-  return <h2>Home Page</h2>;
+function FollowingPage() {
+  return <h2>Following Page</h2>;
 }
+
+export default FollowingPage;
